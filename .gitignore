@@ -11,7 +11,7 @@
 *.sqlite3
 *.7z
 meta_*
-memo.md
+#memo.md
 コピー ～ *
 コピー (*
 * (コピー).*

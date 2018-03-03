@@ -11,3 +11,6 @@ sudo apt-get update
 ```sh
 $ sudo apt-get install mono-devel mono-complete mono-dbg referenceassemblies-pcl ca-certificates-mono  mono-xsp4 > /tmp/work/mono_install.log
 ```
+
+* [インストールログ](mono_install.log)
+
